@@ -1,1 +1,1 @@
-# leetcode-33
+# leetcode
